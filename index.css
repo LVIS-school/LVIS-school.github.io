@@ -119,10 +119,6 @@ h1 {
   .nav-link:hover::after {
     transform: scaleX(1);
   }
-
-  .button {
-    text-align: center;
-  }
   
   
   
